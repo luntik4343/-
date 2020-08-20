@@ -1,0 +1,27 @@
+@echo off
+echo hell
+echo ia ne mogy picat na russkom
+echo lol
+pause
+start calc.exe
+echo ti videch im can a crash teba
+pause
+echo priruchi vnitaz
+pause
+echo duh
+echo FATAL ERORR
+start notebook.exe
+echo i am joing
+echo mda
+pause
+echo bye
+pause
+start winword.exe
+start winword.exe
+start winword.exe
+start winword.exe
+start winword.exe
+start winword.exe
+start winword.exe
+start winword.exe
+pause
